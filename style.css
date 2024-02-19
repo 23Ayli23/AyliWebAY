@@ -1,4 +1,10 @@
+* {
 
+  margin: 0;
+
+  padding: 0;
+
+}
 
 
 body {
@@ -11,13 +17,17 @@ body {
 h1 {
   color: #ffffff;
 
-  font: 95px Arial;
+  font: 55px Arial;
 
 
 }
 
 
 .ImgCenter {
+
+
+  margin-top: 15px;
+
     display: block;
     margin-left: auto;
     margin-right:auto;
@@ -27,6 +37,9 @@ h1 {
 
     background-image: linear-gradient(#ffffff, #99a3d1);
 
+
+    height: 180px;
+
   }
 
 
@@ -35,12 +48,13 @@ h1 {
 
 
     width: 100%;
+
+    padding: 2%;
    
     display: block;
     
 
 
-    border-radius:5%;
 
 
 
@@ -51,6 +65,7 @@ h1 {
 
 	font: 25px Arial;
 
+  
   
 
   }
@@ -71,6 +86,71 @@ h1 {
 
     color: #1692ff;
 
+    font-size:150%;
+
+    
+    
+  }
+
+  #SiteProfieFunPay {
+
+
+    margin-top: 15px;
+
+    display: block;
+
+
+    font: 35px Arial;
+
+    color: #ffffff;
+    
+
+  }
+
+
+  #menu2 {
+
+
+    margin-top: 150px;
+
+
+    width: 100%;
+
+    padding: 2%;
+   
+    display: block;
+    
+
+
+
+    background-color: black;
+    
+    text-align: center;
+
+
+
+	font: 25px Arial;
+  }
+
+
+
+  #menu2 a {
+
+    
+
+
+    height: auto;
+
+    display: inline-block;
+
+
+    margin-right: 10px;
+
+    text-decoration: none;
+
+    color: #ffffff;
+
+    
     
     
   }

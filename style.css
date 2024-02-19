@@ -1,6 +1,13 @@
 body {
+  background-image: linear-gradient(#66a2da, #99d1b5);
 
-  image-rendering: auto;
+  width: auto;
+
+  background-attachment: fixed;
+}
+
+h1 {
+  color: #ffffff;
 }
 
 
@@ -12,5 +19,6 @@ body {
 
     border-radius: 50%;
 
-    background-color: rgba(207, 70, 70, 0.904);
+    background-image: linear-gradient(#ffffff, #99a3d1);
+
   }

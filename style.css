@@ -1,0 +1,16 @@
+body {
+
+  image-rendering: auto;
+}
+
+
+.ImgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: auto;
+
+    border-radius: 50%;
+
+    background-color: rgba(207, 70, 70, 0.904);
+  }
